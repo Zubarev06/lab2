@@ -45,7 +45,7 @@ fun Demoscreen(modifier: Modifier = Modifier){
     )
 }
 
-@Preview
+@Preview(showBackground = true)
 @Composable
 fun DefaultPreview() {
     ModifierDemoTheme{
